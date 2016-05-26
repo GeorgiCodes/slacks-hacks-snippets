@@ -9,3 +9,7 @@
 pre.special_formatting {
   font-size: .65rem
 }
+
+ts-message .member_image {
+  transform: inherit;
+}
