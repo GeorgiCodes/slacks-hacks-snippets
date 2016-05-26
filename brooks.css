@@ -1,0 +1,11 @@
+.message_content {
+  font-family: Slack-Lato,appleLogo,sans-serif !important;
+}
+
+.bot .message_content {
+  font-weight: normal !important;
+}
+
+pre.special_formatting {
+  font-size: .65rem
+}
