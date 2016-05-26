@@ -1,6 +1,10 @@
 #active_channel_name {
   font-family: Slack-Lato,appleLogo,sans-serif !important;
 }
-ts-message:not(.bot) .message_content {
+.message_content {
   font-family: Slack-Lato,appleLogo,sans-serif !important;
+}
+
+.bot .message_content {
+  font-weight: normal !important;
 }
