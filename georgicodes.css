@@ -15,10 +15,10 @@ ts-message .member_image {
   transform: inherit !important;
 }
 
-ts-message.sent_by_me {
-  background:#cc99ff
+ts-message .sent_by_me {
+  background: #cc99ff
 }
 
 .bot_message .message_content {
-  color:#808080
+  color: #808080
 }
