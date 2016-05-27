@@ -14,3 +14,7 @@
 ts-message .member_image {
   transform: inherit !important;
 }
+
+ts-message.sent_by_me {
+  background:#cc99ff
+}
