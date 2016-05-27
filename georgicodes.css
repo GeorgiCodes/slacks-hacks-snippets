@@ -1,5 +1,6 @@
 .message_content {
   font-family: Slack-Lato,appleLogo,sans-serif !important;
+  font-size: 16px;
 }
 
 .bot .message_content {
