@@ -18,3 +18,7 @@ ts-message .member_image {
 ts-message.sent_by_me {
   background:#cc99ff
 }
+
+.bot_message .message_content {
+  color:#808080
+}
